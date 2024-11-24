@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width = "40" height = "40" alt="jupyter logo"/>
   <img width="12" />
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="Breno-ros" width="70" height="40" /> </a>
   <img width="12" />
