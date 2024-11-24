@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Breno Martins</h1>
 - 🔭 I’m currently working in a Smart Factory lab, focusing on the control of robotic manipulators.
 
